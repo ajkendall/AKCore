@@ -1,3 +1,3 @@
 struct AKCore {
-    var text = "Hello, World! This is Aubree."
+    var text = "Hello, World!"
 }
